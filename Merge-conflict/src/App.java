@@ -5,6 +5,5 @@ public class App {
 			//change B
 			//change K
 			System.out.println("Developer 2");
-			System.out.println("developer 1");
 		}
 }
